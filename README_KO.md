@@ -24,13 +24,7 @@ ViewAtlas는 Adobe Substance 3D Painter에서 카메라 시점을 저장하고 �
 
 ## 실제 사용 화면
 
-![ViewAtlas 작업 화면](docs/images/workspace.png)
-
-<img src="docs/images/preview.png" alt="미리보기" width="320" /> <img src="docs/images/capture_area.png" alt="캡처 영역" width="280" />
-
-**다중 시점 촬영 예시**
-
-![촬영 결과](docs/images/batch_example.png)
+[Gumroad에서 실제 ViewAtlas 작업 화면과 촬영 결과 보기](https://9870424699986.gumroad.com/l/vbncosi)
 
 ## 설치 방법 (Windows)
 
