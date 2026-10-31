@@ -1,0 +1,16 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store
+Thumbs.db
+# Local exports and secrets
+*.spp
+*.sppr
+*.env
+.env
+.env.*
+*.key
+*.pem
+*.sqlite
+*.db
