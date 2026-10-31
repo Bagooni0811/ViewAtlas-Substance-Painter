@@ -24,17 +24,7 @@ ViewAtlas is a free, no-activation-required Python plugin that helps 3D artists 
 
 ## Screenshots
 
-**Workspace and camera bookmarks**
-
-![ViewAtlas workspace](docs/images/workspace.png)
-
-**Preview and capture area**
-
-<img src="docs/images/preview.png" alt="Preview panel" width="320" /> <img src="docs/images/capture_area.png" alt="Capture region selection" width="280" />
-
-**Example multi-view output**
-
-![Multi-view output](docs/images/batch_example.png)
+See [actual ViewAtlas interface screenshots and capture examples on Gumroad](https://9870424699986.gumroad.com/l/vbncosi).
 
 ## Installation (Windows)
 
